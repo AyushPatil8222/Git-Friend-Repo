@@ -1,0 +1,1 @@
+str1="New git repo file"
